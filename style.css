@@ -9,6 +9,6 @@ body {
 	margin: 0;
 	overflow: hidden;
 }
-ul {
-	list-style: none;
+nav ul li a {
+	list-style-type: none;
 }
